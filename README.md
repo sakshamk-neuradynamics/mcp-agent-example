@@ -21,7 +21,7 @@ It's designed primarily to be run and interacted with via the LangGraph developm
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/sakshamk-neuradynamics/mcp-agent-example.git
     cd mcp-agent
     ```
 
