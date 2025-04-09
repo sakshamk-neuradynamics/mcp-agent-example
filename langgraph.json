@@ -1,0 +1,7 @@
+{
+    "dependencies": ["src"],
+    "graphs": {
+        "mcp-agent": "src/mcp_agent/agent.py:graph"
+    },
+    "env": "./.env"
+}
